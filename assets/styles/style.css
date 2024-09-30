@@ -46,10 +46,7 @@ a {
 .home {
     height: 100vh;
     width: 100%;
-    background-image:url('background-small.jpg');
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
+    background-color: rgb(167, 220, 247);
 }
 
 .home-container {
