@@ -46,7 +46,7 @@ a {
 .home {
     height: 100vh;
     width: 100%;
-    background-image:url('/Cohort10-project/assets/images/1714158693895.jpg');
+    background-image:url('background-small.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
