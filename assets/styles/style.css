@@ -46,19 +46,20 @@ a {
 .home {
     height: 100vh;
     width: 100%;
-    background-image:url(/assets/images/background-small.jpg);
-    background-repeat: no-repeat;
+   /*background-image:url(/assets/images/background-small.jpg);*/
+   
     background-attachment: fixed;
-    
 }
 
 .home-container {
     width: 100%;
     height: 100%;
+    
 }
 
 .home-container .layer {
-    background-color: rgba(110, 84, 61, 0.6);
+   background-color: rgba(110, 84, 61, 0.6);
+    
 }
 
 .home-container .layer .home-text h1 {
@@ -78,7 +79,7 @@ a {
 }
 
 .home-container .layer .home-text p {
-    color: rgba(255, 255, 255, 0.75);
+   color: #110e0ebf;
 }
 
 .home-container .layer .home-text button {
