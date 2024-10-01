@@ -46,7 +46,10 @@ a {
 .home {
     height: 100vh;
     width: 100%;
-    background-color: rgb(167, 220, 247);
+    background-image:url(/assets/images/background-small.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
 }
 
 .home-container {
