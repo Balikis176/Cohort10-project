@@ -25,12 +25,12 @@ a {
     right: 0;
     z-index: 9999;
     font-size: 18px;
-    background-color: #72634b;
+    background-color: green;
     font-weight: 700;
 }
 
 .navbar-nav li a {
-    color: white;
+    color: black;
     transition: all 1s;
 }
 
@@ -58,7 +58,7 @@ a {
 }
 
 .home-container .layer {
-   background-color: rgba(110, 84, 61, 0.6);
+   background-color: rgb(244, 244, 247);
     
 }
 
@@ -71,7 +71,7 @@ a {
 .home-container .layer .home-text h1::after {
     content: "";
     position: absolute;
-    background-color: #228b22;
+    background-color: #011a01;
     height: 3px;
     width: 10%;
     bottom: 0;
