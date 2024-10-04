@@ -54,11 +54,12 @@ a {
 .home-container {
     width: 100%;
     height: 100%;
+
     
 }
 
 .home-container .layer {
-   background-color: rgb(244, 244, 247);
+   background-color: #87CEEB
     
 }
 
@@ -79,7 +80,7 @@ a {
 }
 
 .home-container .layer .home-text p {
-   color: #110e0ebf;
+   color: white;
 }
 
 .home-container .layer .home-text button {
@@ -115,7 +116,7 @@ a {
 .about-section .container h2::after {
     content: "";
     position: absolute;
-    background-color: #fff;
+    background-color: #228b22;
     height: 3px;
     width: 10%;
     bottom: 0;
@@ -127,13 +128,13 @@ a {
 }
 
 .about-section .container button {
-    background-color: white;
+    background-color: #228b22;
     border: none;
     transition: all .5s;
 }
 
 .about-section .container button a {
-    color: rgb(20, 20, 20);
+    color: whitesmoke;
     text-align: center;
 }
 
@@ -192,7 +193,7 @@ a {
 
 @media (max-width: 576px) {
     .projects .item-layer {
-        background-color: #228b224d;
+        background-color: white;
         opacity: 1;
     }
 
