@@ -103,8 +103,8 @@ a {
 
 /* ------------------about---------------- */
 .about-section {
-    background-color: #228b22;
-    color: white;
+    background-color: lightblue;
+    color: green;
 }
 
 .about-section .container h2 {
@@ -124,7 +124,7 @@ a {
 }
 
 .about-section .container p {
-    color: rgba(255, 255, 255, 0.75);
+    color:green;
 }
 
 .about-section .container button {
@@ -150,7 +150,7 @@ a {
 .title h2::after {
     content: "";
     position: absolute;
-    background-color: #228b22;
+    background-color: green;
     height: 3px;
     width: 10%;
     bottom: 0;
@@ -165,7 +165,7 @@ a {
 }
 
 .Service-section .content p {
-    color: rgb(121, 119, 119);
+    color:black;
 }
 
 /* ---------------projects--------------- */
