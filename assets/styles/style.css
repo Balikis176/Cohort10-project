@@ -25,7 +25,7 @@ a {
     right: 0;
     z-index: 9999;
     font-size: 18px;
-    background-color: green;
+    background-color: rgba(224, 192, 8, 0.918);
     font-weight: 700;
 }
 
@@ -59,7 +59,7 @@ a {
 }
 
 .home-container .layer {
-   background-color: #87CEEB
+   background-color: green
     
 }
 
@@ -84,7 +84,7 @@ a {
 }
 
 .home-container .layer .home-text button {
-    background-color: #228b22;
+    background-color: rgba(224, 192, 8, 0.918);
     border: none;
     transition: all .5s;
     -webkit-transition: all .5s;
@@ -103,8 +103,8 @@ a {
 
 /* ------------------about---------------- */
 .about-section {
-    background-color: lightblue;
-    color: green;
+    background-color: green;
+    color: white;
 }
 
 .about-section .container h2 {
@@ -116,7 +116,7 @@ a {
 .about-section .container h2::after {
     content: "";
     position: absolute;
-    background-color: #228b22;
+    background-color: rgba(224, 192, 8, 0.918);
     height: 3px;
     width: 10%;
     bottom: 0;
@@ -124,11 +124,11 @@ a {
 }
 
 .about-section .container p {
-    color:green;
+    color:rgba(224, 192, 8, 0.918);;
 }
 
 .about-section .container button {
-    background-color: #228b22;
+    background-color: rgba(224, 192, 8, 0.918);
     border: none;
     transition: all .5s;
 }
@@ -150,7 +150,7 @@ a {
 .title h2::after {
     content: "";
     position: absolute;
-    background-color: green;
+    background-color: rgba(224, 192, 8, 0.918);;
     height: 3px;
     width: 10%;
     bottom: 0;
